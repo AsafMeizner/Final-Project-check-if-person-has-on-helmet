@@ -1,0 +1,3 @@
+89 0 198 0 198 139 89 139 Without-Helmet 0
+7 0 148 0 148 148 7 148 With-Helmet 0
+371 0 413 0 413 42 371 42 Without-Helmet 0

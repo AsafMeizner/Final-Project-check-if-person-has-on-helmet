@@ -1,0 +1,2 @@
+110 0 188 0 188 50 110 50 Without-Helmet 0
+62 0 154 0 154 89 62 89 Without-Helmet 0

@@ -1,0 +1,7 @@
+0 80 22 80 22 140 0 140 Without-Helmet 0
+3 73 51 73 51 138 3 138 Without-Helmet 0
+38 5 95 5 95 85 38 85 Without-Helmet 0
+78 47 128 47 128 109 78 109 Without-Helmet 0
+110 32 159 32 159 95 110 95 Without-Helmet 0
+347 257 415 257 415 320 347 320 With-Helmet 0
+287 257 328 257 328 314 287 314 With-Helmet 0

@@ -1,0 +1,4 @@
+0 0 55 0 55 51 0 51 With-Helmet 0
+264 0 336 0 336 76 264 76 With-Helmet 0
+274 334 310 334 310 364 274 364 Without-Helmet 0
+300 331 353 331 353 366 300 366 Without-Helmet 0

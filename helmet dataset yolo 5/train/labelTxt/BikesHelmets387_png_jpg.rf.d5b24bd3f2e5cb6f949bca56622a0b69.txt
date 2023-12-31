@@ -1,0 +1,4 @@
+35 0 76 0 76 32 35 32 Without-Helmet 0
+298 0 415 0 415 99 298 99 With-Helmet 0
+257 0 347 0 347 71 257 71 With-Helmet 0
+266 212 338 212 338 278 266 278 With-Helmet 0

@@ -1,0 +1,1 @@
+python train.py --img-size 416 --batch-size 16 --epochs 30 --data data/dataset.yaml --cfg models/yolov5s.yaml --weights yolov5s.pt --name helmet_detection

@@ -1,0 +1,4 @@
+243 12 273 12 273 47 243 47 With-Helmet 0
+281 0 303 0 303 8 281 8 With-Helmet 0
+24 130 71 130 71 180 24 180 Without-Helmet 0
+0 165 23 165 23 206 0 206 With-Helmet 0

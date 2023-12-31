@@ -1,0 +1,5 @@
+0 0 45 0 45 25 0 25 Without-Helmet 0
+296 4 344 4 344 85 296 85 Without-Helmet 0
+264 16 320 16 320 100 264 100 Without-Helmet 0
+18 197 43 197 43 233 18 233 Without-Helmet 0
+122 152 146 152 146 183 122 183 Without-Helmet 0

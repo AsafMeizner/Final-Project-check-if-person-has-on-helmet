@@ -1,0 +1,3 @@
+0 0 103 0 103 79 0 79 Without-Helmet 0
+203 33 245 33 245 77 203 77 Without-Helmet 0
+287 0 318 0 318 22 287 22 Without-Helmet 0

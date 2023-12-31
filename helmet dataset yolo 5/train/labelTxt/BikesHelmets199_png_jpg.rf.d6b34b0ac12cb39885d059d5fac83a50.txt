@@ -1,0 +1,4 @@
+0 24 46 24 46 97 0 97 With-Helmet 0
+188 0 219 0 219 76 188 76 With-Helmet 0
+318 0 358 0 358 39 318 39 With-Helmet 0
+297 0 343 0 343 52 297 52 With-Helmet 0

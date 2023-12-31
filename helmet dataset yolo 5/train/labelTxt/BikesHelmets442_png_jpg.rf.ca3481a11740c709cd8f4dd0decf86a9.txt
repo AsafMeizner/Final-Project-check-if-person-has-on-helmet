@@ -1,0 +1,5 @@
+147 85 211 85 211 155 147 155 With-Helmet 0
+0 153 59 153 59 219 0 219 With-Helmet 0
+53 33 102 33 102 86 53 86 Without-Helmet 0
+329 0 379 0 379 50 329 50 Without-Helmet 0
+38 270 77 270 77 287 38 287 Without-Helmet 0

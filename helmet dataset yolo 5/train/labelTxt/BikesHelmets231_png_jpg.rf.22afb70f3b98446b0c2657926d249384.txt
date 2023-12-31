@@ -1,0 +1,3 @@
+375 0 415 0 415 41 375 41 Without-Helmet 0
+71 191 116 191 116 222 71 222 Without-Helmet 0
+217 191 281 191 281 225 217 225 Without-Helmet 0

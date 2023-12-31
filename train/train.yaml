@@ -1,0 +1,5 @@
+train: C:/Users/User/Documents/GitHub/Final-Project-check-if-person-has-on-helmet/helmet dataset yolo 5/train
+val: C:/Users/User/Documents/GitHub/Final-Project-check-if-person-has-on-helmet/helmet dataset yolo 5/val
+
+nc: 2  # number of classes
+names: ['With Helmet', 'Without Helmet']

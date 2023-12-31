@@ -1,0 +1,4 @@
+195 0 236 0 236 44 195 44 With-Helmet 0
+42 9 73 9 73 67 42 67 With-Helmet 0
+365 0 402 0 402 42 365 42 Without-Helmet 0
+279 70 297 70 297 101 279 101 With-Helmet 0
