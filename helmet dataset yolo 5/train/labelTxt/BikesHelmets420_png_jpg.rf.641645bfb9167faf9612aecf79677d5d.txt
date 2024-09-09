@@ -1,3 +1,0 @@
-0 0 81 0 81 83 0 83 Without-Helmet 0
-375 20 415 20 415 91 375 91 With-Helmet 0
-401 14 415 14 415 81 401 81 With-Helmet 0
